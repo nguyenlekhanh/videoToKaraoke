@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.wav
+*_audio16k.wav
+dist/
+build/
+.pytest_cache/
+.hf_cache/
+models_cache/
+output/
+logs/
+*_transcript_cache.json
+video/
